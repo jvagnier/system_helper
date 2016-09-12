@@ -1,0 +1,4 @@
+[2016-09-09 11:57:59,592] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:57:59,599] [pip_install.py:67] DEBUG: Processus pid: 7600
+[2016-09-09 11:58:00,293] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:58:00,294] [pip_install.py:136] WARNING: Pip est déjà installé...

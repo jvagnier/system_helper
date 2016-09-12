@@ -1,0 +1,114 @@
+[2016-09-09 10:31:43,081] [pip_install.py:57] DEBUG: Démarrage du processus: python -m pip -V
+[2016-09-09 10:31:43,117] [pip_install.py:68] DEBUG: Process finished with exit code: 1
+[2016-09-09 10:31:43,401] [pip_install.py:57] DEBUG: Démarrage du processus: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 10:31:53,161] [pip_install.py:68] DEBUG: Process finished with exit code: 0
+[2016-09-09 10:31:53,163] [pip_install.py:57] DEBUG: Démarrage du processus: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 10:32:00,443] [pip_install.py:68] DEBUG: Process finished with exit code: 0
+[2016-09-09 10:32:00,445] [pip_install.py:57] DEBUG: Démarrage du processus: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-09 10:32:01,195] [pip_install.py:68] DEBUG: Process finished with exit code: 0
+[2016-09-09 11:31:25,523] [pip_install.py:60] DEBUG: Démarrage du processus: python -m pip -V
+[2016-09-09 11:31:39,289] [pip_install.py:60] DEBUG: Démarrage du processus: python -m pip -V
+[2016-09-09 11:31:39,296] [pip_install.py:67] DEBUG: ID processus: 7320
+[2016-09-09 11:31:39,323] [pip_install.py:72] DEBUG: Code de retour du processus: 1
+[2016-09-09 11:31:39,653] [pip_install.py:60] DEBUG: Démarrage du processus: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:31:39,659] [pip_install.py:67] DEBUG: ID processus: 7322
+[2016-09-09 11:31:49,377] [pip_install.py:72] DEBUG: Code de retour du processus: 0
+[2016-09-09 11:31:49,378] [pip_install.py:60] DEBUG: Démarrage du processus: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:31:49,384] [pip_install.py:67] DEBUG: ID processus: 7326
+[2016-09-09 11:31:57,891] [pip_install.py:72] DEBUG: Code de retour du processus: 0
+[2016-09-09 11:31:57,892] [pip_install.py:60] DEBUG: Démarrage du processus: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-09 11:31:57,898] [pip_install.py:67] DEBUG: ID processus: 7329
+[2016-09-09 11:31:58,658] [pip_install.py:72] DEBUG: Code de retour du processus: 0
+[2016-09-09 11:32:44,327] [pip_install.py:60] DEBUG: Processus command: python -m pip -V
+[2016-09-09 11:32:44,334] [pip_install.py:67] DEBUG: Processus pid: 7347
+[2016-09-09 11:32:44,361] [pip_install.py:72] DEBUG: Processus code de retour: 1
+[2016-09-09 11:32:44,721] [pip_install.py:60] DEBUG: Processus command: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:32:44,728] [pip_install.py:67] DEBUG: Processus pid: 7349
+[2016-09-09 11:32:53,985] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:32:53,987] [pip_install.py:60] DEBUG: Processus command: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:32:53,995] [pip_install.py:67] DEBUG: Processus pid: 7353
+[2016-09-09 11:33:00,783] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:33:00,785] [pip_install.py:60] DEBUG: Processus command: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-09 11:33:00,791] [pip_install.py:67] DEBUG: Processus pid: 7356
+[2016-09-09 11:33:01,532] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:33:37,192] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:33:37,200] [pip_install.py:67] DEBUG: Processus pid: 7368
+[2016-09-09 11:33:37,229] [pip_install.py:72] DEBUG: Processus code de retour: 1
+[2016-09-09 11:33:37,932] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:33:37,938] [pip_install.py:67] DEBUG: Processus pid: 7370
+[2016-09-09 11:33:47,152] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:33:47,153] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:33:47,159] [pip_install.py:67] DEBUG: Processus pid: 7373
+[2016-09-09 11:33:53,890] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:33:53,891] [pip_install.py:60] DEBUG: Processus commande: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-09 11:33:53,897] [pip_install.py:67] DEBUG: Processus pid: 7377
+[2016-09-09 11:33:54,652] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:45:40,691] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:45:40,699] [pip_install.py:67] DEBUG: Processus pid: 7459
+[2016-09-09 11:45:40,727] [pip_install.py:72] DEBUG: Processus code de retour: 1
+[2016-09-09 11:45:41,062] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:45:41,068] [pip_install.py:67] DEBUG: Processus pid: 7461
+[2016-09-09 11:45:50,837] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:45:50,840] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:45:50,849] [pip_install.py:67] DEBUG: Processus pid: 7464
+[2016-09-09 11:45:59,437] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:45:59,439] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:45:59,447] [pip_install.py:67] DEBUG: Processus pid: 7467
+[2016-09-09 11:46:01,344] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:46:46,980] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:46:46,986] [pip_install.py:67] DEBUG: Processus pid: 7474
+[2016-09-09 11:46:47,679] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:46:47,683] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:46:47,689] [pip_install.py:67] DEBUG: Processus pid: 7475
+[2016-09-09 11:46:48,453] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:46:48,455] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:46:48,465] [pip_install.py:67] DEBUG: Processus pid: 7478
+[2016-09-09 11:46:50,360] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:48:04,603] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:48:04,610] [pip_install.py:67] DEBUG: Processus pid: 7493
+[2016-09-09 11:48:05,294] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:48:05,297] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:48:05,306] [pip_install.py:67] DEBUG: Processus pid: 7494
+[2016-09-09 11:48:06,057] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:48:06,060] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:48:06,070] [pip_install.py:67] DEBUG: Processus pid: 7497
+[2016-09-09 11:48:07,968] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:48:35,825] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:48:35,832] [pip_install.py:67] DEBUG: Processus pid: 7506
+[2016-09-09 11:48:36,521] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:48:36,524] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:48:36,531] [pip_install.py:67] DEBUG: Processus pid: 7507
+[2016-09-09 11:48:37,277] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:48:37,280] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:48:37,286] [pip_install.py:67] DEBUG: Processus pid: 7510
+[2016-09-09 11:48:39,244] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:49:31,802] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:49:31,808] [pip_install.py:67] DEBUG: Processus pid: 7526
+[2016-09-09 11:49:32,498] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:49:32,501] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:49:32,510] [pip_install.py:67] DEBUG: Processus pid: 7527
+[2016-09-09 11:49:33,272] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:49:33,275] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:49:33,282] [pip_install.py:67] DEBUG: Processus pid: 7530
+[2016-09-09 11:49:35,169] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:52:52,339] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:52:52,346] [pip_install.py:67] DEBUG: Processus pid: 7559
+[2016-09-09 11:52:53,032] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:52:53,034] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:52:53,041] [pip_install.py:67] DEBUG: Processus pid: 7560
+[2016-09-09 11:52:53,787] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:52:53,790] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:52:53,799] [pip_install.py:67] DEBUG: Processus pid: 7563
+[2016-09-09 11:52:55,744] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:55:08,570] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:55:08,576] [pip_install.py:67] DEBUG: Processus pid: 7580
+[2016-09-09 11:55:09,258] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:55:09,262] [pip_install.py:60] DEBUG: Processus commande: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 11:55:09,272] [pip_install.py:67] DEBUG: Processus pid: 7581
+[2016-09-09 11:55:10,020] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:55:10,024] [pip_install.py:60] DEBUG: Processus commande: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 11:55:10,033] [pip_install.py:67] DEBUG: Processus pid: 7584
+[2016-09-09 11:55:11,979] [pip_install.py:72] DEBUG: Processus code de retour: 0
+[2016-09-09 11:57:59,592] [pip_install.py:60] DEBUG: Processus commande: python -m pip -V
+[2016-09-09 11:57:59,599] [pip_install.py:67] DEBUG: Processus pid: 7600
+[2016-09-09 11:58:00,293] [pip_install.py:72] DEBUG: Processus code de retour: 0

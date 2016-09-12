@@ -1,0 +1,227 @@
+[2016-09-08 15:41:01,569] [pip_install.py:58] INFO: Démarrage du processus: python -m pip -V
+[2016-09-08 15:41:02,278] [pip_install.py:69] INFO: Process finished with exit code: 0
+[2016-09-08 15:41:04,373] [pip_install.py:106] WARNING: Pip est déjà installé... Abandon!
+[2016-09-08 15:45:19,752] [pip_install.py:106] WARNING: Pip est déjà installé... Abandon!
+[2016-09-08 15:48:01,748] [pip_install.py:107] WARNING: Pip est déjà installé... Abandon!
+[2016-09-08 15:55:34,862] [pip_install.py:110] WARNING: Pip 8.1.2 /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages 2.7 est déjà installé... Abandon!
+[2016-09-08 15:58:23,037] [pip_install.py:119] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Site    : 2.7
+
+[2016-09-08 15:58:44,325] [pip_install.py:119] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+
+[2016-09-08 15:59:33,190] [pip_install.py:121] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-08 16:00:31,022] [pip_install.py:120] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-08 16:00:40,463] [pip_install.py:121] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-08 16:03:14,050] [pip_install.py:121] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-08 16:05:04,409] [pip_install.py:123] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-08 16:20:48,650] [pip_install.py:132] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-08 16:22:24,707] [pip_install.py:54] INFO: Démarrage du processus: python -m pip -V
+[2016-09-08 16:22:25,401] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-08 16:22:25,404] [pip_install.py:132] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-08 16:22:25,406] [pip_install.py:54] INFO: Démarrage du processus: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-08 16:22:26,182] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-08 16:22:26,184] [pip_install.py:54] INFO: Démarrage du processus: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-08 16:22:26,918] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 08:55:09,384] [pip_install.py:54] INFO: Démarrage du processus: python -m pip -V
+[2016-09-09 08:55:10,328] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 08:55:10,331] [pip_install.py:132] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-09 08:55:10,332] [pip_install.py:54] INFO: Démarrage du processus: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 08:55:11,084] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 08:55:11,087] [pip_install.py:54] INFO: Démarrage du processus: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-09 08:55:11,837] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 09:16:12,869] [pip_install.py:54] INFO: Démarrage du processus: python -m pip -V
+[2016-09-09 09:16:12,901] [pip_install.py:65] INFO: Process finished with exit code: 1
+[2016-09-09 09:16:12,901] [pip_install.py:79] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 09:16:12,904] [pip_install.py:82] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 09:16:12,904] [pip_install.py:85] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 09:16:13,283] [pip_install.py:88] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 09:16:13,284] [pip_install.py:54] INFO: Démarrage du processus: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 09:16:23,079] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 09:16:23,079] [pip_install.py:54] INFO: Démarrage du processus: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 09:16:29,987] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 09:16:29,987] [pip_install.py:54] INFO: Démarrage du processus: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-09 09:16:30,731] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 09:16:46,290] [pip_install.py:54] INFO: Démarrage du processus: python -m pip -V
+[2016-09-09 09:16:46,326] [pip_install.py:65] INFO: Process finished with exit code: 1
+[2016-09-09 09:16:46,328] [pip_install.py:79] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 09:16:46,332] [pip_install.py:82] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 09:16:46,333] [pip_install.py:85] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 09:16:47,090] [pip_install.py:88] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 09:16:47,091] [pip_install.py:54] INFO: Démarrage du processus: python /tmp/pip_download/get-pip.py --user
+[2016-09-09 09:16:56,338] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 09:16:56,339] [pip_install.py:54] INFO: Démarrage du processus: python -m pip install --user dulwich Jinja2 mysql-python
+[2016-09-09 09:17:03,020] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 09:17:03,022] [pip_install.py:54] INFO: Démarrage du processus: python -m pip freeze --user | tee /Users/pitacdevel/pip_requirements.txt
+[2016-09-09 09:17:03,765] [pip_install.py:65] INFO: Process finished with exit code: 0
+[2016-09-09 09:49:13,980] [pip_install.py:147] CRITICAL: Erreur inconnue
+[2016-09-09 09:49:44,935] [pip_install.py:147] CRITICAL: Erreur inconnue
+[2016-09-09 09:55:30,875] [pip_install.py:149] CRITICAL: Erreur inconnue
+[2016-09-09 09:56:40,569] [pip_install.py:149] CRITICAL: Erreur inconnue
+[2016-09-09 09:58:07,350] [pip_install.py:149] CRITICAL: Erreur inconnue
+[2016-09-09 09:59:31,349] [pip_install.py:136] CRITICAL: Erreur inconnue
+[2016-09-09 10:01:03,743] [pip_install.py:79] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:01:03,747] [pip_install.py:82] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:01:03,748] [pip_install.py:85] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:01:04,103] [pip_install.py:88] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:04:03,371] [pip_install.py:136] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-09 10:04:30,008] [pip_install.py:83] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:04:30,012] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:04:30,013] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:04:30,333] [pip_install.py:92] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:11:24,933] [pip_install.py:83] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:11:24,935] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:11:24,935] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:11:25,289] [pip_install.py:92] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:12:07,774] [pip_install.py:83] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:12:07,777] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:12:07,778] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:12:08,514] [pip_install.py:92] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:13:32,544] [pip_install.py:83] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:13:32,547] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:13:32,547] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:13:32,869] [pip_install.py:92] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:13:55,315] [pip_install.py:83] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:13:55,317] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:13:55,318] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:13:55,997] [pip_install.py:92] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:15:39,905] [pip_install.py:83] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:15:39,908] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:15:39,909] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:15:40,212] [pip_install.py:92] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:16:13,658] [pip_install.py:83] INFO: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:16:13,660] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:16:13,661] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:16:14,016] [pip_install.py:92] INFO: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:17:25,556] [pip_install.py:83] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:17:26,313] [pip_install.py:92] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:31:43,120] [pip_install.py:83] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:31:43,123] [pip_install.py:86] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 10:31:43,124] [pip_install.py:89] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 10:31:43,400] [pip_install.py:92] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 10:32:38,762] [pip_install.py:83] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 10:32:39,490] [pip_install.py:92] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 11:17:02,517] [pip_install.py:83] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 11:17:03,274] [pip_install.py:92] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 11:31:39,324] [pip_install.py:87] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 11:31:39,327] [pip_install.py:90] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 11:31:39,327] [pip_install.py:93] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 11:31:39,652] [pip_install.py:96] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 11:32:44,362] [pip_install.py:87] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 11:32:44,365] [pip_install.py:90] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 11:32:44,366] [pip_install.py:93] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 11:32:44,720] [pip_install.py:96] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 11:33:37,230] [pip_install.py:87] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 11:33:37,233] [pip_install.py:90] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 11:33:37,234] [pip_install.py:93] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 11:33:37,931] [pip_install.py:96] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 11:45:40,728] [pip_install.py:87] WARNING: Suppression du répertoire /tmp/pip_download
+[2016-09-09 11:45:40,730] [pip_install.py:90] INFO: Création du nouveau répertoire /tmp/pip_download
+[2016-09-09 11:45:40,731] [pip_install.py:93] INFO: Téléchargement:
+Source: https://bootstrap.pypa.io/get-pip.py
+Destination: /tmp/pip_download/get-pip.py
+[2016-09-09 11:45:41,061] [pip_install.py:96] WARNING: Changement des droits d'accès sur: /tmp/pip_download/get-pip.py (0755)
+[2016-09-09 11:46:47,681] [pip_install.py:130] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-09 11:48:05,296] [pip_install.py:131] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-09 11:48:06,059] [pip_install.py:109] INFO: Requirement already satisfied (use --upgrade to upgrade): dulwich in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): Jinja2 in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): mysql-python in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): MarkupSafe in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages (from Jinja2)
+[2016-09-09 11:48:36,523] [pip_install.py:131] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-09 11:48:37,279] [pip_install.py:109] INFO: 
+Requirement already satisfied (use --upgrade to upgrade): dulwich in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): Jinja2 in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): mysql-python in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): MarkupSafe in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages (from Jinja2)
+[2016-09-09 11:49:32,500] [pip_install.py:131] WARNING: Pip est déjà installé... Abandon!
+Version : 8.1.2
+Python  : 2.7
+Site    : /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+[2016-09-09 11:49:33,274] [pip_install.py:109] INFO: Message de sortie:
+Requirement already satisfied (use --upgrade to upgrade): dulwich in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): Jinja2 in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): mysql-python in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): MarkupSafe in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages (from Jinja2)
+[2016-09-09 11:52:53,033] [pip_install.py:127] WARNING: Pip est déjà installé...Abandon!
+pip 8.1.2 from /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages (python 2.7)
+[2016-09-09 11:52:53,788] [pip_install.py:109] INFO: Message de sortie:
+Requirement already satisfied (use --upgrade to upgrade): dulwich in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): Jinja2 in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): mysql-python in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): MarkupSafe in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages (from Jinja2)
+[2016-09-09 11:55:09,260] [pip_install.py:126] WARNING: Pip est déjà installé...
+pip 8.1.2 from /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages (python 2.7)
+[2016-09-09 11:55:10,022] [pip_install.py:109] INFO: Message de sortie:
+Requirement already satisfied (use --upgrade to upgrade): dulwich in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): Jinja2 in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): mysql-python in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages
+Requirement already satisfied (use --upgrade to upgrade): MarkupSafe in /Users/pitacdevel/Library/Python/2.7/lib/python/site-packages (from Jinja2)
+[2016-09-09 11:58:00,294] [pip_install.py:136] WARNING: Pip est déjà installé...
