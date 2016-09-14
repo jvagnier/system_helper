@@ -8,8 +8,6 @@ from dulwich.client import get_transport_and_path
 from dulwich.index import build_index_from_tree
 from dulwich.repo import Repo
 
-from app.lib.utils import create_directory
-
 
 commit_template = Template("""
 Id: {{ commit.id }}
@@ -91,6 +89,16 @@ def clone(repo, source, branch="master"):
     return checkout(repo, branch)
 
 
+prog = "clone"
+
+
+def make_options(parser):
+    parser.add_argument("--source", required=True)
+    parser.add_argument("--destination")
+    parser.add_argument("-b", dest="branch", default="master")
+    parser.add_argument("-f", dest="force", action="store_true", default=False)
+    return parser
+
 
 def main():
     print(os.getcwd())
@@ -98,7 +106,6 @@ def main():
     print(repo.path)
     source = "https://github.com/jvagnier/empty.git"
     clone(repo, source, "supernova")
-
 
 
 if __name__ == '__main__':
